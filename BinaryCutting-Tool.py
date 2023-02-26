@@ -85,7 +85,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description="BinaryCutting-Tool V1.0", epilog='二进制文件切割&合并工具')
     parser.add_argument('-c', action='store', dest='cutting', type=str, help='切割目标二进制文件并导出')
     parser.add_argument('-m', action='store', dest='merger', type=str, help='合并切割后的文件并导出')
-    parser.add_argument('-s', action='store', dest='size', type=int, default='1024', help='设定文件大小，默认1024KB')
+    parser.add_argument('-s', action='store', dest='size', type=int, default='1024', help='设定切割文件的大小，默认1024KB')
     args = parser.parse_args()
     try:
         if args.cutting:
