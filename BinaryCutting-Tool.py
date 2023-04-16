@@ -19,7 +19,7 @@ def title():
  ░    ░  ▒ ░   ░   ░ ░   ░   ▒     ░░   ░ ▒ ▒ ░░  ░         ░░░ ░ ░   ░        ░       ▒ ░   ░   ░ ░ ░ ░   ░ 
  ░       ░           ░       ░  ░   ░     ░ ░     ░ ░         ░                        ░           ░       ░ 
       ░                                   ░ ░     ░                                                          
-                                  [+] BinaryCutting-Tool V1.0                                         
+                                  [+] BinaryCutting-Tool V1.1                                         
                                     [+] 二进制文件切割&合并工具                             
                                       [+] Author: 曾哥(@AabyssZG)              
                                         [+] Whoami: https://github.com/AabyssZG  
